@@ -1,0 +1,32 @@
+html {
+	font-size:12px;
+	font-family:'Ibarra Real Nova', serif;
+	background-color: white;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li { 
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+a {
+	font-size: 20px;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: orange;
+	border: 3px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
